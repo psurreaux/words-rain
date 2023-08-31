@@ -4,6 +4,8 @@ import urllib2,cookielib
 import sys, unicodedata
 from bs4 import BeautifulSoup
 import pymongo as Pymongo
+
+
 from pymongo import MongoClient
 
 #header
